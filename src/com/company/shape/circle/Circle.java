@@ -1,6 +1,6 @@
-package com.company.circle;
+package com.company.shape.circle;
 
-import com.company.AbstractShape;
+import com.company.shape.AbstractShape;
 
 public class Circle extends AbstractShape {
 

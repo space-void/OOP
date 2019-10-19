@@ -1,6 +1,6 @@
-package com.company.square;
+package com.company.shape.square;
 
-import com.company.AbstractShape;
+import com.company.shape.AbstractShape;
 
 public class Square extends AbstractShape {
 

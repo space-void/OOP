@@ -1,6 +1,6 @@
-package com.company.triangle;
+package com.company.shape.triangle;
 
-import com.company.AbstractShape;
+import com.company.shape.AbstractShape;
 
 public class Triangle extends AbstractShape {
 
